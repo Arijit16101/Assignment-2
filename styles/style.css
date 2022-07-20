@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Poppins:wght@500&display=swap');
 body{
     margin: 0 auto;
     max-width: 1240px;
@@ -22,6 +23,7 @@ body{
 .banner-content h1{
     font-size: 7vw;
     margin-bottom: 0;
+    font-family: 'Poppins', sans-serif;
 }
 .banner-content p{
     font-size: 14px;
@@ -217,7 +219,7 @@ body{
     }
     .upcoming-match{
         padding-top: 5px;
-        margin: 0 2%;
+        margin: 20px 2%;
      }    
      .flag-vs{
         justify-content: center;
