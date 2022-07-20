@@ -196,6 +196,7 @@ body{
     .main-content{
         display: block;
         margin-bottom: 20px;
+        padding: 0 25%;
     }
     .blog-contents{
         display: block;
@@ -209,7 +210,6 @@ body{
     }
     .side-nav{
         background-color: white;
-        margin: 0 25%;
     }
     .upcoming-match{
         padding-top: 5px;
