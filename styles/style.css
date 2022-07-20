@@ -196,7 +196,8 @@ body{
     .main-content{
         display: block;
         margin-bottom: 20px;
-        padding: 0 25%;
+        /* padding: 0 25%; */
+        padding-left: 20%;
     }
     .blog-contents{
         display: block;
