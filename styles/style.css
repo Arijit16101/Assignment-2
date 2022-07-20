@@ -51,8 +51,8 @@ body{
     grid-template-columns: 270px auto;
     justify-content: left;
     grid-gap: 20px;
-    padding-left: 2%;
-    padding-right: 3%; 
+    /* padding-left: 2%;
+    padding-right: 3%;  */
     margin-bottom: 80px;
 } 
 .side-nav{
@@ -198,8 +198,6 @@ body{
     .main-content{
         display: block;
         margin: 0 25%;
-        padding-right: 500px; 
-        padding-left: 0%;
     }
     .blog-contents{
         display: block;
