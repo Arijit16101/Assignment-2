@@ -195,9 +195,9 @@ body{
     }
     .main-content{
         display: block;
-        margin-bottom: 20px;
-        /* padding: 0 25%; */
-        padding-left: 20%;
+        margin: 0 25%;
+        padding-right: 500px; 
+        padding-left: 0%;
     }
     .blog-contents{
         display: block;
@@ -211,6 +211,9 @@ body{
     }
     .side-nav{
         background-color: white;
+    }
+    .nav-buttons{
+        padding-left: 30px;
     }
     .upcoming-match{
         padding-top: 5px;
